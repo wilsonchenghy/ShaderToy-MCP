@@ -10,8 +10,6 @@ Example of the complex shader it generates:
 
 ***Mountains*** (https://www.shadertoy.com/view/W3l3Df)
 
-***Kaleidoscope*** (https://www.shadertoy.com/view/wXl3Df)
-
 ***Matrix Digital Rain*** (https://www.shadertoy.com/view/33l3Df)
 
 
