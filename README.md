@@ -6,11 +6,19 @@ Example of the complex shader it generates:
 
 ![IMG_9029](https://github.com/user-attachments/assets/376b438e-a438-4813-8415-4579fad41858)
 
+****
+
 ***Ocean*** (https://www.shadertoy.com/view/tXs3Wf)
 
 <img width="1470" alt="Screenshot 2025-04-02 at 1 58 17 AM" src="https://github.com/user-attachments/assets/40907327-111d-41eb-831e-831d36d7473a" />
 
+****
+
 ***Mountains*** (https://www.shadertoy.com/view/W3l3Df)
+
+<img width="1470" alt="Screenshot 2025-04-02 at 5 44 12 PM" src="https://github.com/user-attachments/assets/16e1d078-8443-42e6-a6fe-32046a7d73a3" />
+
+****
 
 ***Matrix Digital Rain*** (https://www.shadertoy.com/view/33l3Df)
 
