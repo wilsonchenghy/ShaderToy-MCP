@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wilsonchenghy-shadertoy-mcp-badge.png)](https://mseep.ai/app/wilsonchenghy-shadertoy-mcp)
+
 # ShaderToy-MCP
 
 MCP Server for ShaderToy, a website for creating, running and sharing GLSL shader (https://www.shadertoy.com/). It connects LLM like Claude with ShaderToy through Model Context Protocol (MCP), allowing the LLM to query and read the entire web page, allowing it to make increasingly complex shader it normally isn't capable of.
