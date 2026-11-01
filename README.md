@@ -63,6 +63,8 @@ Go to Claude > Settings > Developer > Edit Config > claude_desktop_config.json t
             "run",
             "--with",
             "mcp[cli]",
+            "--with",
+            "requests",
             "mcp",
             "run",
             "<path_to_project>/ShaderToy-MCP/src/ShaderToy-MCP/server.py"
